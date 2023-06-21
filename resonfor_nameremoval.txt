@@ -1,0 +1,3 @@
+Unseen software names could come in the future, removing the software names from the dataset could be a reasonable approach. By doing so, you create a more generalizable model that can handle new, unseen software names effectively.
+
+Removing the software names allows your model to focus on identifying patterns and relationships among the remaining features without being biased towards specific software products. This approach can help improve the model's ability to generalize and make accurate predictions when encountering new software names.
